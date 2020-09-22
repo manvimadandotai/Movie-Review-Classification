@@ -3,6 +3,6 @@ This repository contains the implementation of move review classification in IMD
 
 
 # Installation
-Clone this repository:  or
+Clone this repository: [LINK](https://github.com/manvimadan12/Movie-Review-Classification.git) or
 git clone 
 or click Download ZIP in right panel of repository and extract the code
