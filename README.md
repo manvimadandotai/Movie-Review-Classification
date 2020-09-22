@@ -8,8 +8,8 @@ git clone
 or click Download ZIP in right panel of repository and extract the code
 
 
-# Running the script
-
+# Running the experiment
+* Run the cells in the Jupyter Notebook movie_review_classification
 
 
 
