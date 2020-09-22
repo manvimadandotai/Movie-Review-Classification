@@ -9,7 +9,7 @@ or click Download ZIP in right panel of repository and extract the code
 
 
 # Running the experiment
-* Run the cells in the Jupyter Notebook movie_review_classification
+* Run the cells in the Jupyter Notebook movie_review_classification.ipynb
 
 
 
